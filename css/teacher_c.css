@@ -1,0 +1,138 @@
+html,body {
+	width:100%;
+	padding: 0;
+    margin: 0;
+}
+body{
+	background-color:#4a4a4a;
+	font-family:Comic Sans MS,cursive;
+}
+.head{
+	height:45px;
+	width:100%;
+	background:#2d2d2d;
+}
+.head-a{
+	position:absolute;		
+	left:15%;
+	font-size:30px;	
+	color:#a8bc1b;
+}
+.head-b{
+	position:absolute;
+	top:1%;
+	left:40%;
+	font-size:24px;	
+	color:#ffffff;
+}
+.head-c{
+	position:absolute;
+	top:1%;
+	right:23%;
+	font-size:20px;	
+	color:#ffffff;
+}
+.head-dd{
+	position:absolute;
+	top:0.7%;
+	right:15%;
+	height:32px;
+	width:85px;
+	background:#21ba45;
+	border-radius:5px;
+	color:#e7f8eb;
+	font-size:22px;
+	text-align:center;
+	letter-spacing:1px;
+}
+.table{
+	position: absolute;
+	height:420px;
+	width:40%;
+	background:#1b1c1d;
+	border-radius:5px;
+	margin:50px 0 0 30%;
+}
+.table-a{
+	position:absolute;
+	font-size:28px;	
+	color:#f3f3f3;
+	top:20px;
+	left:32%;
+}
+.table-b,.table-c,.table-d{
+	position:absolute;
+	font-size:22px;	
+	color:#aaaaaa;
+}
+.table-input-text1,.table-input-text2{
+	height:22px;
+	width:70%;
+	background:#2b2b2b;
+	border-style:groove;
+	border-radius:5px;
+	color:#f3f3f3;
+	letter-spacing:3px;
+	position:absolute;
+	left:15%;
+}
+.table-b{
+	top:80px;
+	left:15%;
+}
+.table-input-text1{
+	top:120px;
+}
+.table-c{
+	top:160px;
+	left:15%;
+}
+.table-input-text2{
+	top:200px;
+}
+.table-d{
+	top:240px;
+	left:15%;
+}
+.table a{
+	text-decoration:none;
+	position:absolute;
+ 	font-size:30px;
+	top:235px;
+	left:32%;
+}
+.table a:link,a:visited,a:active{color:#aaaaaa;}
+.table a:hover{color:#f3f3f3;}
+.table-input-text3{
+	height:22px;
+	width:36px;
+	background:#2b2b2b;
+	border-style:groove;
+	border-radius:5px;
+	color:#f3f3f3;
+	letter-spacing:3px;
+	position:absolute;
+	top:280px;
+}
+.table2{
+	position: absolute;
+	height:50px;
+	width:100%;
+	top: 98%;
+	background:#2d2d2d;
+	border-radius:1px;
+}
+.table-submit{
+	position:absolute;
+	margin:9px 0 0 70%;
+	height:32px;
+	background:#21b8ff;
+	border-style:none;
+	border-radius:5px;
+	color:#e7f8eb;
+	font-size:22px;
+	text-align:center;
+	letter-spacing:1px;
+	cursor: pointer;
+	font-family:Comic Sans MS;
+}

@@ -1,0 +1,101 @@
+html,body {
+	width:100%;
+	padding: 0;
+    margin: 0;
+}
+body{
+	background-color:#4a4a4a;
+	font-family:Comic Sans MS,cursive;
+}
+.head{
+	height:45px;
+	width:100%;
+	background:#2d2d2d;
+}
+.head-a{
+	position:absolute;		
+	left:15%;
+	font-size:30px;	
+	color:#a8bc1b;
+}
+.head-b{
+	position:absolute;
+	top:1%;
+	left:40%;
+	font-size:24px;	
+	color:#ffffff;
+}
+.head-c{
+	position:absolute;
+	top:4px;
+	right:23%;
+	font-size:24px;	
+	color:#ffffff;
+}
+.head-dd{
+	position:absolute;
+	top:0.7%;
+	right:15%;
+	height:32px;
+	width:85px;
+	background:#21ba45;
+	border-radius:5px;
+	color:#e7f8eb;
+	font-size:22px;
+	text-align:center;
+	letter-spacing:1px;
+}
+.YourCourses{
+	position: relative;
+	font-size:70px;	
+	text-align:center;
+	color:#d9e778;
+	margin:50px 0 -50px 0;
+}
+.table{
+	position: relative;
+	height:220px;
+	width:40%;
+	background:#1b1c1d;
+	border-radius:5px;
+	margin:100px 0 100px 30%;
+}
+.table-label{
+	position: absolute;
+	height:13%;
+	width:13%;
+	top: 8%;
+	left: -4%;
+	background:#ff695e;
+	border-radius:5px;
+	transform:rotate(-35deg);
+	transform-origin:top left;
+}
+.table-a{
+	position:absolute;
+	font-size:50px;	
+	color:#f3f3f3;
+	top:20px;
+	left:5%;
+}
+.table-b{
+	position:absolute;
+	font-size:28px;	
+	color:#ff695e;
+	top:160px;
+	right:5%;
+}
+.table2{
+	position:absolute;
+	height:40px;
+	width:100%;
+	top:95%;
+	background:#2d2d2d;
+}
+.table2-a{
+	position:absolute;
+	font-size:22px;	
+	color:#f3f3f3;
+	top:3.5px;
+	left:5%;
+}

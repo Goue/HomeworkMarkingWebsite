@@ -1,0 +1,118 @@
+html,body {
+	padding: 0;
+    margin: 0;
+}
+body{
+	background-color:#4a4a4a;
+	font-family:Comic Sans MS;
+}
+.head{
+	height:45px;
+	width:100%;
+	background:#2d2d2d;
+}
+.head-a{
+	position:absolute;		
+	left:15%;
+	font-size:30px;	
+	color:#a8bc1b;
+}
+.head-b{
+	position:absolute;
+	top:1%;
+	right:15%;
+	font-size:24px;	
+	color:#ffffff;
+}
+.table{
+	position: absolute;
+	height:400px;
+	width:70%;
+	top: 15%;
+	left: 15%;
+	background:#1b1c1d;
+	border-radius:5px;
+}
+.table-a{
+	position:absolute;
+	font-size:70px;	
+	color:#d9e778;
+	top:5%;
+	left:14.5%;
+}
+.table-b{
+	position:absolute;
+	font-size:28px;	
+	color:#f3f3f3;
+	top:38%;
+	left:14.5%;
+}
+.table-c{
+	position:absolute;
+	font-size:22px;	
+	color:#aaaaaa;
+	top:53%;
+	left:14.5%;
+}
+
+.table-d{
+	position:absolute;
+	font-size:22px;	
+	color:#aaaaaa;
+	top:73%;
+	left:14.5%;
+}
+
+.table-input-text1,.table-input-text2{
+	height:22px;
+	width:70%;
+	background:#2b2b2b;
+	border-style:groove;
+	border-radius:5px;
+	color:#f3f3f3;
+	letter-spacing:3px;
+}
+.table-input-text1{
+	position:absolute;
+	top:63%;
+	left:14.5%;	
+}
+.table-input-text2{
+	position:absolute;
+	top:83%;
+	left:14.5%;
+}
+.table2{
+	position: absolute;
+	height:15%;
+	width:100%;
+	top: 98%;
+	background:#2d2d2d;
+	border-radius:5px;
+}
+.table-submit{
+	position:absolute;
+	top:25%;
+	left:77%;
+	height:32px;
+	width:85px;
+	background:#21ba45;
+	border-style:none;
+	border-radius:5px;
+	color:#e7f8eb;
+	font-size:22px;
+	text-align:center;
+	letter-spacing:3px;
+	cursor: pointer;
+}
+.incorrect{
+	position:absolute;
+	font-size:16px;	
+	color:#ccb5b5;
+	border-style:solid;
+	border-color:#ccb5b5;
+	top:30%;
+	left:14.5%;
+	border-radius:5px;
+	letter-spacing:3px;
+}

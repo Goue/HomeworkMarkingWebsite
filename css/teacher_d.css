@@ -1,0 +1,104 @@
+html,body {
+	width:100%;
+	padding: 0;
+    margin: 0;
+}
+body{
+	background-color:#4a4a4a;
+	font-family:Comic Sans MS,cursive;
+}
+.head{
+	height:45px;
+	width:100%;
+	background:#2d2d2d;
+}
+.head-a{
+	position:absolute;		
+	left:15%;
+	font-size:30px;	
+	color:#a8bc1b;
+}
+.head-b{
+	position:absolute;
+	top:1%;
+	left:40%;
+	font-size:24px;	
+	color:#ffffff;
+}
+.head-c{
+	position:absolute;
+	top:1%;
+	right:23%;
+	font-size:20px;	
+	color:#ffffff;
+}
+.head-dd{
+	position:absolute;
+	top:0.7%;
+	right:15%;
+	height:32px;
+	width:85px;
+	background:#21ba45;
+	border-radius:5px;
+	color:#e7f8eb;
+	font-size:22px;
+	text-align:center;
+	letter-spacing:1px;
+}
+.table{
+	position: absolute;
+	width:70%;
+	margin:50px 0 0 15%;
+	background:#1b1c1d;
+	border-radius:5px;
+}
+.table-a{
+	position:absolute;
+	font-size:70px;	
+	width:100%;
+	color:#d9e778;
+	margin:20px 0 0 0;
+	text-align:center;
+}
+.table2{
+	position:absolute;
+	font-size:30px;
+	color:#761dc8;
+	height:30px;
+	width:100%;
+	top:150px;
+}
+.table2_a{
+	position:absolute;
+	left:10%;
+}
+.table2_b{
+	position:absolute;
+	left:38%;
+}
+.table2_d{
+	position:absolute;
+	right:23%;
+}
+.table_1{
+	position:absolute;
+	height:40px;
+	width:80%;
+	left:10%;
+	font-size:24px;
+	color:#f3f3f3;
+}
+.table_1b{
+	position:absolute;
+	left:36%;
+}
+.table_1c{
+	position:absolute;
+	right:5%;
+}
+.end{
+	position:absolute;
+	height:70px;
+	width:100%;
+	top:100%;
+}

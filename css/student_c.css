@@ -1,0 +1,138 @@
+html,body {
+	width:100%;
+	padding: 0;
+    margin: 0;
+}
+body{
+	background-color:#4a4a4a;
+	font-family:Comic Sans MS;
+}
+.head{
+	height:45px;
+	width:100%;
+	background:#2d2d2d;
+}
+.head-a{
+	position:absolute;		
+	left:15%;
+	font-size:30px;	
+	color:#a8bc1b;
+}
+.head-b{
+	position:absolute;
+	top:1%;
+	left:40%;
+	font-size:24px;	
+	color:#ffffff;
+}
+.head-c{
+	position:absolute;
+	top:1%;
+	right:23%;
+	font-size:20px;	
+	color:#ffffff;
+}
+.head-dd{
+	position:absolute;
+	top:0.7%;
+	right:15%;
+	height:32px;
+	width:85px;
+	background:#21ba45;
+	border-radius:5px;
+	color:#e7f8eb;
+	font-size:22px;
+	text-align:center;
+	letter-spacing:1px;
+}
+.table{
+	position: relative;
+}
+.table1{
+	position:absolute;	
+	min-height:550px;
+	min-width:51%;
+	height:550px;
+	width:51%;
+	margin:50px 0 0 15%;
+	overflow:hidden;
+}
+.incorrect{
+	position:absolute;
+	font-size:60px;	
+	color:#ccb5b5;
+	border-style:solid;
+	border-color:#ccb5b5;
+	top:30%;
+	left:14.5%;
+	border-radius:5px;
+	letter-spacing:3px;
+}
+img{
+	position: absolute;  
+	max-height: 98%;  
+    max-width: 98%; 
+    width: auto;
+    height: auto;
+	top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;  
+    margin: auto;
+	border:3px #1b1c1d solid;
+}
+.table2{
+	position: absolute;
+	height:550px;
+	width:18%;
+	background:#1b1c1d;
+	border-radius:5px;
+	margin:50px 15% 0 67%;
+}
+.table2-a{
+	position:absolute;
+	font-size:32px;	
+	color:#d9e778;
+	top:10px;
+	left:15px;
+}
+
+.table2-b{
+	position:absolute;
+	font-size:24px;	
+	color:#f3f3f3;
+	top:60px;
+	left:15px;
+}
+ul{
+	position:absolute;
+	color:#aaaaaa;
+	font-size:22px;
+	top:75px;
+}
+li{
+	margin:10px 0 0 0;
+}
+a{text-decoration:none;}
+.table2 a:link,a:visited,a:active{color:#aaaaaa;}
+.table2 a:hover{color:#f3f3f3;}
+.table2-2{
+	position:absolute;
+	height:50px;
+	width:100%;
+	top: 98%;
+	background:#2d2d2d;
+	border-radius:1px;
+}
+.table2-c{
+	position:absolute;
+	margin:9px 0 0 15%;
+	height:32px;
+	width:176px;
+	background:#21b8ff;
+	border-radius:5px;
+	color:#e7f8eb;
+	font-size:22px;
+	text-align:center;
+	letter-spacing:1px;
+}
